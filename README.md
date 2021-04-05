@@ -16,7 +16,7 @@ You can generate all production ready-code either manually using Supernova's [VS
 
 ## Example Usage
 
-Once you have run the exporter against your design system, you can start using the code in your codebase right away. Here are a few examples of how you can use the output of the [SwiftUI] exporter:
+Once you have run the exporter against your design system, you can start using the code in your codebase right away. Here are a few examples of how you can use the output of the Angular exporter:
 
 ### [Example 1]
 
@@ -37,7 +37,7 @@ Code
 
 ## Installing
 
-In order to make the Supernova SwiftUI exporter available for your organization so you can start generating code from your design system, please follow the installation guide in our [developer documentation](https://developers.supernova.io/using-exporters/installing-exporters).
+In order to make the Supernova Angular exporter available for your organization so you can start generating code from your design system, please follow the installation guide in our [developer documentation](https://developers.supernova.io/using-exporters/installing-exporters).
 
 ## Reporting Bugs or Requesting Features
 
